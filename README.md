@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/flamboyant-lumiere-482a1e/deploys)
-**박영웅님의 패스트캠퍼스 강의와 함께 했습니다\***
-**아래 글은 박영웅님이 작성하신 README.md 파일입니다.**
+**박영웅님의 패스트캠퍼스 강의와 함께 했습니다.**  
+**아래 글은 박영웅님이 작성하신 README.md 파일입니다.**  
 
 # ☕ STARBUCKS
 
