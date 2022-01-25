@@ -2,8 +2,8 @@
 ㅤ  
 **박영웅님의 패스트캠퍼스 강의와 함께 했습니다.**  
 **아래 글은 박영웅님이 작성하신 README.md 파일입니다.**  
-**박영웅님 깃허브 주소**  
-https://github.com/ParkYoungWoong  
+[박영웅님 깃허브](https://github.com/ParkYoungWoong)  
+
 ㅤ  
 ============================================================
 # ☕ STARBUCKS
